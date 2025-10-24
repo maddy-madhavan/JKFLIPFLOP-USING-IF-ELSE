@@ -54,10 +54,16 @@ endmodule
 
 
 
-**RTL LOGIC FOR FLIPFLOPS**![Screenshot 2024-12-27 153608](https://github.com/user-attachments/assets/92cd9b6f-2cd1-41ca-838b-78c5455b9bd4)
+**RTL LOGIC FOR FLIPFLOPS**
+
+![Screenshot 2024-12-27 153608](https://github.com/user-attachments/assets/92cd9b6f-2cd1-41ca-838b-78c5455b9bd4)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**![Screenshot 2024-12-27 153927](https://github.com/user-attachments/assets/9347d3fc-5c84-41b8-9090-822b09c6fbae)
+**TIMING DIGRAMS FOR FLIP FLOPS**
+
+![Screenshot 2024-12-27 153927](https://github.com/user-attachments/assets/9347d3fc-5c84-41b8-9090-822b09c6fbae)
 
 
 **RESULTS**
+
+Thus the JK flipflop is implemented and verified.
